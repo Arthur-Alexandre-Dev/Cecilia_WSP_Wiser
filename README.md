@@ -1,3 +1,3 @@
 # Cecília WSP
 
-## Prompt WSP para Cecília
+Prompt WSP para Cecília
